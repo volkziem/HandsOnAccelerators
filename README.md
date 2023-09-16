@@ -1,19 +1,19 @@
-The live scripts (with file extension .mlx) are specially prepared
-MATLAB files that contain text explanations, images as well as
-executable MATLAB code. Just load them from your MATLAB installation.
-You can also look at a webpage online or download a pdf. Both are
-automatically generated from the running live script and contain
-everything, input as well as output, including plots.
 
-------------------------------------------------------------------------
-
-Volker Ziemann, *Hands-on Accelerator Physics using MATLAB* 
+# MATLAB live scripts for *Hands-on Accelerator Physics using MATLAB* 
 -----------------------------------------------------------
 
 The book was published by
 [CRCpress](https://www.crcpress.com/9781138589940) in March 2019 and all
 MATLAB scripts referred to in the book are available form the
 [publisher\'s web page](https://www.crcpress.com/9781138589940) 
+
+The live scripts (with file extension .mlx) in this repository are specially prepared
+MATLAB files that contain text explanations, images as well as
+executable MATLAB code. Just load them from your MATLAB installation.
+You can also look at a webpage online or download a pdf. Both are
+automatically generated from the running live script and contain
+everything, input as well as output, including plots.
+
 
 #### Chapter 2: Reference system
 
