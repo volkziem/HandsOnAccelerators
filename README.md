@@ -17,7 +17,7 @@ everything, input as well as output, including plots.
 
 #### Chapter 2: Reference system
 
--   [3D-geometry of a beam line](file://apb/GeometryModeler.html), includes a
+-   [3D-geometry of a beam line](apb/GeometryModeler.html), includes a
     simple OpenSCAD modeler: [live script](apb/GeometryModeler.mlx) and
     [pdf](apb/GeometryModeler.pdf).
 
